@@ -3,5 +3,9 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "compile": "^0.0.2",
+    "npx": "^10.2.2"
   }
 }
